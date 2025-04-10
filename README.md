@@ -15,9 +15,11 @@ This repository contains the files used within the session to view or follow alo
 ## Exercises/Demos
 
 ### Exercise 1
-<img width="1919" alt="image" src="https://github.com/user-attachments/assets/c9570fb9-a7bf-44ca-88e3-17d354c909e2" />
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simulink-intro&file=Simulink_Intro.slx)
+<img width="1919" alt="image" src="https://github.com/user-attachments/assets/c9570fb9-a7bf-44ca-88e3-17d354c909e2" />
 
 ### Exercise 2
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simulink-intro&file=Mass_Spring_Damper.slx)
 
 ### Exercise 3
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simulink-intro&file=PID_Control.slx)
