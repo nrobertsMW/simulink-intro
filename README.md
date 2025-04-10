@@ -11,5 +11,13 @@ In this session you will learn the basics of Simulink for modeling, simulating, 
 - How to get started with Simulink
 
 This repository contains the files used within the session to view or follow along with.
- 
+
+## Exercises/Demos
+
+### Exercise 1
+<img width="1919" alt="image" src="https://github.com/user-attachments/assets/c9570fb9-a7bf-44ca-88e3-17d354c909e2" />
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simulink-intro&file=Simulink_Intro.slx)
+
+### Exercise 2
+
+### Exercise 3
