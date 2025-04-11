@@ -29,3 +29,17 @@ This repository contains the files used within the session to view or follow alo
 
 <img width="1911" alt="image" src="https://github.com/user-attachments/assets/81c4ece7-0527-4fb8-a4b4-2c2d02425791" />
 
+## Resources
+
+#### MATLAB/Simulink Online
+https://www.mathworks.com/products/matlab-online.html
+https://www.mathworks.com/products/simulink-online.html
+
+#### Self-Paced Online Courses
+https://matlabacademy.mathworks.com/?page=1&sort=featured
+
+#### Supported External Hardware
+https://www.mathworks.com/hardware-support/home.html
+
+#### MATLAB Central
+https://www.mathworks.com/matlabcentral/
