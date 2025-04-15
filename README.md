@@ -17,17 +17,27 @@ This repository contains the files used within the session to view or follow alo
 ### Exercise 1
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simulink-intro&file=Simulink_Intro.slx)
 
-<img width="1919" alt="image" src="https://github.com/user-attachments/assets/c9570fb9-a7bf-44ca-88e3-17d354c909e2" />
+![image](https://github.com/user-attachments/assets/73f86e3b-69f0-4612-9156-04f021afad9c)
 
 ### Exercise 2
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simulink-intro&file=Mass_Spring_Damper.slx)
 
-<img width="1910" alt="image" src="https://github.com/user-attachments/assets/a673bd9a-781b-47ac-b542-c19fbe2383ce" />
+![image](https://github.com/user-attachments/assets/8961ec7e-d163-4b5b-b4ab-68effb5e7a9c)
+
+Based on documentation example:
+https://www.mathworks.com/help/simscape/ug/mass-spring-damper-in-simulink-and-simscape.html
 
 ### Exercise 3
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simulink-intro&file=PID_Control.slx)
 
-<img width="1911" alt="image" src="https://github.com/user-attachments/assets/81c4ece7-0527-4fb8-a4b4-2c2d02425791" />
+![image](https://github.com/user-attachments/assets/536d4b93-7c43-45c9-89db-8bd1aea821ad)
+
+### Exercise 4
+![image](https://github.com/user-attachments/assets/24537d59-d970-4992-b529-a7ca511f9390)
+
+Based on documentation example:
+https://www.mathworks.com/help/simulink/supportpkg/arduino_ref/servo-control.html
+
 
 ## Resources
 
