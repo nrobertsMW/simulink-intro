@@ -32,6 +32,9 @@ https://www.mathworks.com/help/simscape/ug/mass-spring-damper-in-simulink-and-si
 
 ![image](https://github.com/user-attachments/assets/536d4b93-7c43-45c9-89db-8bd1aea821ad)
 
+Based on documentation example:
+https://www.mathworks.com/help/simscape/ug/mass-spring-damper-with-controller.html
+
 ### Exercise 4
 ![image](https://github.com/user-attachments/assets/24537d59-d970-4992-b529-a7ca511f9390)
 
