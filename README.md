@@ -19,6 +19,7 @@ This repository contains the files used within the session to view or follow alo
 
 ![image](https://github.com/user-attachments/assets/73f86e3b-69f0-4612-9156-04f021afad9c)
 
+
 ### Exercise 2
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simulink-intro&file=Mass_Spring_Damper.slx)
 
@@ -27,6 +28,7 @@ This repository contains the files used within the session to view or follow alo
 Based on documentation example:
 
 https://www.mathworks.com/help/simscape/ug/mass-spring-damper-in-simulink-and-simscape.html
+
 
 ### Exercise 3
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simulink-intro&file=PID_MSD.slx)
@@ -37,12 +39,14 @@ Based on documentation example:
 
 https://www.mathworks.com/help/simscape/ug/mass-spring-damper-with-controller.html
 
+
 ### Exercise 4
 ![image](https://github.com/user-attachments/assets/24537d59-d970-4992-b529-a7ca511f9390)
 
 Based on documentation example:
 
 https://www.mathworks.com/help/simulink/supportpkg/arduino_ref/servo-control.html
+
 
 
 ## Resources
