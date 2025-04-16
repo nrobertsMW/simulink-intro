@@ -30,7 +30,7 @@ https://www.mathworks.com/help/simscape/ug/mass-spring-damper-in-simulink-and-si
 ### Exercise 3
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=nrobertsMW/simulink-intro&file=PID_MSD.slx)
 
-![image](https://github.com/user-attachments/assets/bb5339bb-c6cc-4a9b-8f7a-3490d4640946)
+![image](https://github.com/user-attachments/assets/661f6b43-3d53-4a87-a90a-2c3517515c4b)
 
 Based on documentation example:
 https://www.mathworks.com/help/simscape/ug/mass-spring-damper-with-controller.html
