@@ -25,6 +25,7 @@ This repository contains the files used within the session to view or follow alo
 ![image](https://github.com/user-attachments/assets/8961ec7e-d163-4b5b-b4ab-68effb5e7a9c)
 
 Based on documentation example:
+
 https://www.mathworks.com/help/simscape/ug/mass-spring-damper-in-simulink-and-simscape.html
 
 ### Exercise 3
@@ -33,12 +34,14 @@ https://www.mathworks.com/help/simscape/ug/mass-spring-damper-in-simulink-and-si
 ![image](https://github.com/user-attachments/assets/661f6b43-3d53-4a87-a90a-2c3517515c4b)
 
 Based on documentation example:
+
 https://www.mathworks.com/help/simscape/ug/mass-spring-damper-with-controller.html
 
 ### Exercise 4
 ![image](https://github.com/user-attachments/assets/24537d59-d970-4992-b529-a7ca511f9390)
 
 Based on documentation example:
+
 https://www.mathworks.com/help/simulink/supportpkg/arduino_ref/servo-control.html
 
 
