@@ -1,5 +1,8 @@
 # Introduction to Simulink for System Modeling and Simulation
 
+https://scu.zoom.us/j/91988065480?pwd=vPaCnU6XbFP4sNmUI6rzdaf4ErmhCj.1
+
+
 ## Abstract
 In this session you will learn the basics of Simulink for modeling, simulating, and analyzing multidomain dynamical systems. You will see how to build simulation models using Simulink’s block diagramming interface, customizable set of libraries, and connectivity to MATLAB.   Key highlights include:
 
