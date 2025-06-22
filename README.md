@@ -1,3 +1,7 @@
+
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTE4NzhlNDYtZDgwNy00YTlkLWE5YTctZDc5YTc2NGY4NmQ2%40thread.v2/0?context=%7b%22Tid%22%3a%2299dd3a11-4348-4468-9bdd-e5072b1dc1e6%22%2c%22Oid%22%3a%224f9f52f3-c69c-4c81-be19-69bcbd4639d7%22%7d
+
 # Introduction to Simulink for System Modeling and Simulation
 
 ## Abstract
