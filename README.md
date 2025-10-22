@@ -41,7 +41,7 @@ https://www.mathworks.com/help/simscape/ug/mass-spring-damper-with-controller.ht
 
 
 ### Exercise 4
-![image](https://github.com/user-attachments/assets/24537d59-d970-4992-b529-a7ca511f9390)
+<img width="1115" height="805" alt="image" src="https://github.com/user-attachments/assets/63b14433-6aba-41c1-942d-1fd61f26f7be" />
 
 Based on documentation example:
 
